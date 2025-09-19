@@ -1,15 +1,15 @@
 # Google Clone
 Simple clone of the most visited website in the world
 
-# Purpose
+## Purpose
 Made it for Scrimba's HTML & CSS course
 
-# Features
+## Features
 - Just see clone made by me!
 
-# Languages
+## Languages
 - HTML
 - CSS
 
-# Key Takeaways
+## Key Takeaways
 - The site is not functional as it's only for design cloning :)
